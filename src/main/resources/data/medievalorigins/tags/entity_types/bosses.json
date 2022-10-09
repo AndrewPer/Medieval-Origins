@@ -2,6 +2,22 @@
 	"replace": false,
 	"values": [
 		"minecraft:ender_dragon",
-                "minecraft:wither"
+        "minecraft:wither",
+		"bewitchment:baphomet",
+		"bewitchment:herne",
+		"bewitchment:leonard",
+		"bewitchment:lilith",
+		"bosses_of_mass_destruction:lich",
+		"bosses_of_mass_destruction:obsidilith",
+		"bosses_of_mass_destruction:guantlet",
+		"minecraft:elder_guardian",
+		"twilightforest:alpha_yeti",
+		"twilightforest:armored_giant",
+		"twilightforest:hydra",
+		"twilightforest:king_spider",
+		"twilightforest:lich",
+		"twilightforest:naga",
+		"twilightforest:snow_queen",
+		"twilightforest:ur_ghast"
 	]
 }

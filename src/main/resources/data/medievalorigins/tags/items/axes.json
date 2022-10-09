@@ -1,11 +1,36 @@
 {
   "replace": false,
   "values": [
-	"wooden_axe",
+	      "minecraft:wooden_axe",
         "minecraft:stone_axe",
         "minecraft:golden_axe",
         "minecraft:iron_axe",
         "minecraft:diamond_axe",
-        "minecraft:netherite_axe"
+        "minecraft:netherite_axe",
+        "ae2:certus_quartz_axe",
+        "ae2:nether_quartz_axe",
+        "ae2:fluix_axe",
+        "betterend:aeternium_axe",
+        "betterend:thallasium_axe",
+        "betterend:terminite_axe",
+        "betternether:cincinnasite_axe",
+        "betternether:cincinnasite_axe_diamond",
+        "betternether:nether_ruby_axe",
+        "mcdw:axe_axe",
+        "mcdw:axe_highland",
+        "mcdw:axe_cursed",
+        "mcdw:axe_double",
+        "mcdw:axe_whirlwind",
+        "mcdw:axe_firebrand",
+        "twilightforest:ironwood_axe",
+        "twilightforest:gold_minotaur_axe",
+        "twilightforest:diamond_minotaur_axe",
+        "twilightforest:knightmetal_axe",
+        "indrev:tin_axe",
+        "indrev:steel_axe",
+        "indrev:silver_axe",
+        "indrev:lead_axe",
+        "indrev:copper_axe",
+        "indrev:bronze_axe"
   ]
 }

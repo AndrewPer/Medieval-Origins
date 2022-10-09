@@ -4,6 +4,17 @@
 	  "minecraft:golden_helmet",
 	  "minecraft:golden_chestplate",
 	  "minecraft:golden_leggings",
-	  "minecraft:golden_boots"
+	  "minecraft:golden_boots",
+	  "mcda:evocation_robe_helmet",
+	  "mcda:battle_robe_leggings",
+	  "mcda:shulker_armor_chestplate",
+	  "mcda:vanguard_armor_helmet",
+	  "mcda:battle_robe_chestplate",
+	  "mcda:evocation_robe_chestplate",
+	  "mcda:evocation_robe_leggings",
+	  "mcda:golden_piglin_armor_helmet",
+	  "mcda:golden_piglin_armor_chestplate",
+	  "mcda:golden_piglin_armor_leggings",
+	  "mcda:golden_piglin_armor_boots"
   ]
 }

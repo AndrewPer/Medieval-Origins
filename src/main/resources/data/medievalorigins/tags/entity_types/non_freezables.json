@@ -9,6 +9,24 @@
                 "minecraft:magma_cube",
                 "minecraft:piglin",
                 "minecraft:piglin_brute",
-		"minecraft:wither"
+		"minecraft:wither",
+                "betternether:flying_pig",
+                "betternether:hydrogen_jellyfish",
+                "betternether:jungle_skeleton",
+                "betternether:naga",
+                "betternether:skull",
+                "bewitchment:baphomet",
+                "bewitchment:demon",
+                "bewitchment:hellhound",
+                "bewitchment:herne",
+                "bewitchment:leonard",
+                "bewitchment:lilith",
+                "creeperoverhaul:snowy_creeper",
+                "dummmmmmy:target_dummy",
+                "twilightforest:alpha_yeti",
+                "twilightforest:snow_guardian",
+                "twilightforest:snow_queen",
+                "twilightforest:stable_ice_core",
+                "twilightforest:unstable_ice_core"
 	]
 }
